@@ -1,7 +1,7 @@
 const quizData = [{
     question: "What is the largest State in india?",
     a: "Delhi",
-    b: "Mumbai",
+    b: "Maharashtra",
     c: "Uttar Pradesh",
     d: "Rajasthan",
     correct: "d",
